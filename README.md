@@ -1,0 +1,2 @@
+# GOC
+Gooise Overland Competitie
