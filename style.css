@@ -1,0 +1,32 @@
+.main{
+    text-align: center;
+}
+
+.aanroep{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.vlucht_aanmelding{
+	margin-bottom: 20px;
+}
+
+@media screen and (max-width: 480px) {
+  .aanroep {
+    font-size: 1.6rem;
+  }
+}
+
+td {
+	padding: 10px;
+}
+
+.task-preview {
+	width:75%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.file-icon {
+	height: 30px;
+}
