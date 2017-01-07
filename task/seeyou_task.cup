@@ -1,16 +1,14 @@
-name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
-"BaarnA1 wx",Baarnwx,NL,5213.200N,00518.183E,0.0m,1,,,,,,
-"Fort Rhijnauwen",FortRhij,NL,5204.500N,00510.533E,0.0m,1,,,,"N52∞04'30"" E005∞10'32""",,
-"HoevelakenA1 wx",WXHOELA1,NL,5210.517N,00525.717E,8.0m,1,,,,"N52∞10'31"" E005∞25'43""",,
-"Hollandsche Rading wx",Hollrdwx,NL,5210.600N,00510.750E,5.0m,1,,,,"N52∞10'36"" E005∞10'45""",,
-"Kasteel Sterkenburg",KASTEEL,NL,5201.417N,00517.033E,0.0m,1,,,,"N52∞01'25"" E005∞17'02""",,
-"Woudenberg",Woudebrg,NL,5204.850N,00524.983E,0.0m,1,,,,,,
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Hollandsche Rading wx",,,5210.600N,00510.750E,5.0m,1,,,,
+"TIEL",,,5153.403N,00523.088E,20.0m,1,,,,
+"AMERSFOORT",,,5211.706N,00523.743E,20.0m,1,,,,
+"NIEUWEGEIN",,,5202.960N,00507.085E,20.0m,1,,,,
+"Hilversum",,,5211.517N,00508.817E,1.0m,1,,,,
 -----Related Tasks-----
-"GoZC LOW","???","Hollandsche Rading wx","Woudenberg","Kasteel Sterkenburg","Fort Rhijnauwen","HoevelakenA1 wx","BaarnA1 wx","Hollandsche Rading wx","???"
-ObsZone=0,Style=2,R1=5000m,A1=180,Line=1
-ObsZone=1,Style=1,R1=5000m,A1=45,R2=500m,A2=180
-ObsZone=2,Style=1,R1=5000m,A1=45,R2=500m,A2=180
-ObsZone=3,Style=1,R1=5000m,A1=45,R2=500m,A2=180
-ObsZone=4,Style=1,R1=5000m,A1=45,R2=500m,A2=180
-ObsZone=5,Style=1,R1=5000m,A1=45,R2=500m,A2=180
-ObsZone=6,Style=3,R1=5000m,A1=180,R2=500m,A2=180,Line=1
+‚ÄúGoZC MOW‚Äù,‚ÄùHollandsche Rading wx","Hollandsche Rading wx","TIEL","AMERSFOORT","NIEUWEGEIN","Hilversum","Hilversum"
+Options,TaskTime=03:00:00,WpDis=True,MinDis=True,RandomOrder=False,MaxPts=13
+ObsZone=0,Style=2,R1=5000m,Line=1
+ObsZone=1,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=2,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=3,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=4,Style=3,R1=1000m,A1=180

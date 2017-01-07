@@ -1,7 +1,8 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
-"BaarnA1 wx",Baarnwx,NL,5213.200N,00518.183E,0.0m,1,,,,,,
-"Fort Rhijnauwen",FortRhij,NL,5204.500N,00510.533E,0.0m,1,,,,"N52°04'30"" E005°10'32""",,
-"HoevelakenA1 wx",WXHOELA1,NL,5210.517N,00525.717E,8.0m,1,,,,"N52°10'31"" E005°25'43""",,
-"Hollandsche Rading wx",Hollrdwx,NL,5210.600N,00510.750E,5.0m,1,,,,"N52°10'36"" E005°10'45""",,
-"Kasteel Sterkenburg",KASTEEL,NL,5201.417N,00517.033E,0.0m,1,,,,"N52°01'25"" E005°17'02""",,
-"Woudenberg",Woudebrg,NL,5204.850N,00524.983E,0.0m,1,,,,,,
+"AMERSFOORT","MCAMRS",NL,5211.706N,00523.743E,20m,1,,,,"Turn Point"
+"Hilversum",HILVE,NL,5211.517N,00508.817E,1.0m,2,180,680.0m,"131.025",
+"Hollandsche Rading wx",Hollrdwx,NL,5210.600N,00510.750E,5.0m,1,,,,"N52°10'36"" 
+E005°10'45""",,
+"NIEUWEGEIN", "MCNWGN",NL,5202.960N,00507.085E,20,,1,,,,"Turn Point"
+"TIEL","MCTIEL",NL,5153.403N,00523.088E,20m,1,,,,"Turn Point"
+

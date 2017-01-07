@@ -1,4 +1,4 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height=“300" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="Hollandsche Rading wx" id="0" comment="" altitude="5.0">
       <Location longitude="5.1791667" latitude="52.1766667"/>
@@ -6,40 +6,28 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Woudenberg" id="0" comment="" altitude="0.0">
-      <Location longitude="5.4163833" latitude="52.0808333"/>
+    <Waypoint name="TIEL" id="0" comment="" altitude="20.0">
+      <Location longitude="5.3848" latitude="51.89005"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Kasteel Sterkenburg" id="0" comment="" altitude="0.0">
-      <Location longitude="5.2838833" latitude="52.0236167"/>
+    <Waypoint name="AMERSFOORT" id="0" comment="" altitude="20.0">
+      <Location longitude="5.3957167" latitude="52.1951"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Fort Rhijnauwen" id="0" comment="" altitude="0.0">
-      <Location longitude="5.17555" latitude="52.075"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="HoevelakenA1 wx" id="0" comment="" altitude="8.0">
-      <Location longitude="5.4286167" latitude="52.1752833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="BaarnA1 wx" id="0" comment="" altitude="0.0">
-      <Location longitude="5.30305" latitude="52.22"/>
+    <Waypoint name="NIEUWEGEIN" id="0" comment="" altitude="20.0">
+      <Location longitude="5.1180833" latitude="52.0493333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Hollandsche Rading wx" id="0" comment="" altitude="5.0">
-      <Location longitude="5.1791667" latitude="52.1766667"/>
+    <Waypoint name="Hilversum" id="0" comment="" altitude="1.0">
+      <Location longitude="5.14695" latitude="52.19195"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Cylinder" radius="1000.0"/>
   </Point>
 </Task>
 
