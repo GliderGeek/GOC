@@ -1,1 +1,1 @@
-http://live.glidernet.org/#w=0&c=52.11369,5.34954&z=11&n=0&t=https://raw.githubusercontent.com/GliderGeek/GOC/master/task/task.OGN
+http://live.glidernet.org/#w=0&c=c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/GliderGeek/GOC/master/task/task.OGN
