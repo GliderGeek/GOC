@@ -1,4 +1,4 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height=“300" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="Hollandsche Rading wx" id="0" comment="" altitude="5.0">
       <Location longitude="5.1791667" latitude="52.1766667"/>
@@ -6,8 +6,8 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="TIEL" id="0" comment="" altitude="20.0">
-      <Location longitude="5.3848" latitude="51.89005"/>
+    <Waypoint name="VEENENDAAL" id="0" comment="" altitude="20.0">
+      <Location longitude="5.5561333" latitude="52.0432167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -18,14 +18,20 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="NIEUWEGEIN" id="0" comment="" altitude="20.0">
+    <Waypoint name="BARNEVELD" id="0" comment="" altitude="20.0">
+      <Location longitude="5.56465" latitude="52.1687167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="NIEUWEGIJN" id="0" comment="" altitude="20.0">
       <Location longitude="5.1180833" latitude="52.0493333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Hilversum" id="0" comment="" altitude="1.0">
-      <Location longitude="5.14695" latitude="52.19195"/>
+    <Waypoint name="Hilversum" id="0" comment="EHHV 131.025" altitude="1.0">
+      <Location longitude="5.1469444" latitude="52.1919444"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="1000.0"/>
   </Point>
