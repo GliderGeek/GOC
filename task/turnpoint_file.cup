@@ -1,7 +1,7 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
-"AMERSFOORT",,,5211.706N,00523.743E,20.0m,1,,,,
-"BARNEVELD",,,5210.123N,00533.879E,20.0m,1,,,,
-"Hilversum",,,5211.517N,00508.817E,1.0m,1,,,,
 "Hollandsche Rading wx",,,5210.600N,00510.750E,5.0m,1,,,,
-"NIEUWEGIJN",,,5202.960N,00507.085E,20.0m,1,,,,
 "VEENENDAAL",,,5202.593N,00533.368E,20.0m,1,,,,
+"BARNEVELD",,,5210.123N,00533.879E,20.0m,1,,,,
+"HUISTERHEIDE",,,5206.763N,00515.640E,20.0m,1,,,,
+"NIJKERK",,,5214.419N,00528.921E,20.0m,1,,,,
+"Hilversum",,,5211.517N,00508.817E,1.0m,1,,,,

@@ -12,26 +12,26 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="AMERSFOORT" id="0" comment="" altitude="20.0">
-      <Location longitude="5.3957167" latitude="52.1951"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
     <Waypoint name="BARNEVELD" id="0" comment="" altitude="20.0">
       <Location longitude="5.56465" latitude="52.1687167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="NIEUWEGIJN" id="0" comment="" altitude="20.0">
-      <Location longitude="5.1180833" latitude="52.0493333"/>
+    <Waypoint name="HUISTERHEIDE" id="0" comment="" altitude="20.0">
+      <Location longitude="5.2606667" latitude="52.1127167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="NIJKERK" id="0" comment="" altitude="20.0">
+      <Location longitude="5.4820167" latitude="52.2403167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Hilversum" id="0" comment="EHHV 131.025" altitude="1.0">
-      <Location longitude="5.1469444" latitude="52.1919444"/>
+    <Waypoint name="Hilversum" id="0" comment="" altitude="1.0">
+      <Location longitude="5.14695" latitude="52.19195"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="1000.0"/>
   </Point>
